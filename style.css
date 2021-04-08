@@ -85,7 +85,7 @@ p{
     line-height: 1.5em;
 }
 
-img {
+.welcome img {
     width: 200px;
     display: block;
     text-align: right;
